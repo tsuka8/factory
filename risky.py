@@ -6,4 +6,4 @@ result = eval(user_input)
 
 print("結果:", result)
 
-print("---")
+print("-----")
