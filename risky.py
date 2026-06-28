@@ -5,3 +5,5 @@ user_input = input("何か入力してください: ")
 result = eval(user_input)
 
 print("結果:", result)
+
+print("---")
